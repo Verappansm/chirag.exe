@@ -1,0 +1,16 @@
+{
+  "lines": [
+    "Thank you, Chirag.",
+    "For teaching us more than just technology.",
+    "For the technical lessons.",
+    "For the patience.",
+    "For the games.",
+    "For the advice.",
+    "For making three months of training something we'll actually remember."
+  ],
+  "messages": [
+    { "id": "msg-001", "enabled": true, "name": "Trainee 01", "message": "SAMPLE: Replace this with a real message from the admin panel.", "mediaUrl": "" },
+    { "id": "msg-002", "enabled": true, "name": "Trainee 02", "message": "SAMPLE: Photos (.jpg/.png/.gif) and videos (.mp4/.webm) both work.", "mediaUrl": "" },
+    { "id": "msg-003", "enabled": true, "name": "Trainee 03", "message": "SAMPLE: 23 of these go here.", "mediaUrl": "" }
+  ]
+}

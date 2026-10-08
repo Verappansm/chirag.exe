@@ -1,0 +1,76 @@
+{
+  "questions": [
+    {
+      "id": "trainee-001",
+      "enabled": true,
+      "title": "Who is this trainee?",
+      "traineeName": "Trainee 02",
+      "clues": [
+        "SAMPLE: Has asked \"Sir, is this important?\" approximately 47 times.",
+        "SAMPLE: Usually arrives exactly 7 minutes after the session starts.",
+        "SAMPLE: Has mastered the art of looking busy when an assignment is due."
+      ],
+      "options": [
+        { "id": "a", "label": "Trainee 01" },
+        { "id": "b", "label": "Trainee 02" },
+        { "id": "c", "label": "Trainee 03" },
+        { "id": "d", "label": "Trainee 04" }
+      ],
+      "correctOption": "b",
+      "award": {
+        "title": "THE LATE COMER LEGEND",
+        "description": "Sample award. Replace me from the admin panel."
+      },
+      "image": "",
+      "explanation": "Sample explanation shown after the correct answer."
+    },
+    {
+      "id": "trainee-002",
+      "enabled": true,
+      "title": "Who is this trainee?",
+      "traineeName": "Trainee 07",
+      "clues": [
+        "SAMPLE: Never asks a question in class. Always has the answer after class.",
+        "SAMPLE: Their laptop has 94 browser tabs open at all times.",
+        "SAMPLE: Says \"it works on my machine\" with total sincerity."
+      ],
+      "options": [
+        { "id": "a", "label": "Trainee 05" },
+        { "id": "b", "label": "Trainee 06" },
+        { "id": "c", "label": "Trainee 07" },
+        { "id": "d", "label": "Trainee 08" }
+      ],
+      "correctOption": "c",
+      "award": {
+        "title": "THE SILENT ASSASSIN",
+        "description": "Sample award. Replace me from the admin panel."
+      },
+      "image": "",
+      "explanation": ""
+    },
+    {
+      "id": "trainee-003",
+      "enabled": true,
+      "title": "Who is this trainee?",
+      "traineeName": "Trainee 09",
+      "clues": [
+        "SAMPLE: Volunteers first for every game, then regrets it immediately.",
+        "SAMPLE: Has a dramatic sigh ready for every new assignment.",
+        "SAMPLE: The unofficial class representative of snack breaks."
+      ],
+      "options": [
+        { "id": "a", "label": "Trainee 09" },
+        { "id": "b", "label": "Trainee 10" },
+        { "id": "c", "label": "Trainee 11" },
+        { "id": "d", "label": "Trainee 12" }
+      ],
+      "correctOption": "a",
+      "award": {
+        "title": "THE OVERCONFIDENT VOLUNTEER",
+        "description": "Sample award. Replace me from the admin panel."
+      },
+      "image": "",
+      "explanation": ""
+    }
+  ]
+}

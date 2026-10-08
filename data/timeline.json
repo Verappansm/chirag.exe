@@ -1,0 +1,130 @@
+{
+  "events": [
+    {
+      "id": "event-001",
+      "enabled": true,
+      "phase": "Before the training",
+      "title": "NEW INSTRUCTOR INCOMING",
+      "context": "We were informed that a new instructor would be joining us.",
+      "caption": "Class when we were informed that a new instructor was coming.",
+      "media": {
+        "url": "/memes/e1-surprise.mp4",
+        "source": "https://tenor.com/view/surprise-indian-surprised-indian-shocked-shocked-indian-gif-26151108",
+        "query": "confused shocked reaction hindi meme kya hua"
+      },
+      "sound": ""
+    },
+    {
+      "id": "event-002",
+      "enabled": true,
+      "phase": "Day 1",
+      "title": "THE ENTRY",
+      "context": "Chirag enters the training room for the first time. Slow motion. Background score.",
+      "caption": "Chirag entering the training room for the first time.",
+      "media": {
+        "url": "/memes/e2-entry.mp4",
+        "source": "https://tenor.com/view/hrithik-roshan-slow-motion-walk-suit-up-suit-walk-gif-23576429",
+        "query": "bollywood hero mass entry slow motion walk"
+      },
+      "sound": ""
+    },
+    {
+      "id": "event-003",
+      "enabled": true,
+      "phase": "Day 1",
+      "title": "LOSS FUNCTION",
+      "context": "Day 1. Straight into Loss Functions. No warm-up.",
+      "caption": "Class when Chirag started teaching Loss Functions on Day 1.",
+      "media": {
+        "url": "/memes/e3-loss.mp4",
+        "source": "https://tenor.com/view/yeh-kya-ho-raha-hai-what-happened-what-why-kyu-ho-raha-hai-gif-5737032475222247238",
+        "query": "hera pheri paresh rawal confused kya huh"
+      },
+      "sound": ""
+    },
+    {
+      "id": "event-004",
+      "enabled": true,
+      "phase": "Week 2",
+      "title": "POLICE & MILITARY",
+      "context": "Chirag mentioned he also trains police and military professionals.",
+      "caption": "Class after hearing that Chirag teaches police and military personnel.",
+      "media": {
+        "url": "/memes/e4-salute.mp4",
+        "source": "https://tenor.com/view/army-salute-military-salute-soldier-soldier-meme-gif-14137850304496639626",
+        "query": "salute attention soldiers sit straight reaction"
+      },
+      "sound": ""
+    },
+    {
+      "id": "event-005",
+      "enabled": true,
+      "phase": "Mid-training",
+      "title": "THE CONTENT",
+      "context": "Chirag reviews the quality (and chaos) of our work.",
+      "caption": "Chirag after seeing the content.",
+      "media": {
+        "url": "/memes/e5-content.mp4",
+        "source": "https://tenor.com/view/yeh-sab-kya-dekhna-pad-raha-hai-accha-hai-kya-hai-yeh-sab-gif-22223179",
+        "query": "disappointed facepalm hindi meme yeh kya dekh raha hoon"
+      },
+      "sound": ""
+    },
+    {
+      "id": "event-006",
+      "enabled": true,
+      "phase": "Every morning",
+      "title": "LATE COMERS",
+      "context": "Some of us treated the start time as a suggestion.",
+      "caption": "Chirag when we came late for class.",
+      "media": {
+        "url": "/memes/e6-late.mp4",
+        "source": "https://tenor.com/view/chappal-le-meri-chappal-%E0%A4%9A%E0%A4%AA%E0%A5%8D%E0%A4%AA%E0%A4%B2-chappal-se-marunga-flying-chappal-gif-27262069",
+        "query": "angry chasing cartoon shouting hindi meme"
+      },
+      "sound": ""
+    },
+    {
+      "id": "event-007",
+      "enabled": true,
+      "phase": "Presentation week",
+      "title": "PRESENTATION GRILLING",
+      "context": "We came prepared to present. He came prepared to interrogate.",
+      "caption": "Chirag during our presentations.",
+      "media": {
+        "url": "/memes/e7-grill.mp4",
+        "source": "https://tenor.com/view/gigachad-stare-gigachad-stare-fabio-gigachad-fabio-gigachad-stare-gif-24846189",
+        "query": "gigachad interrogation intense questioning meme"
+      },
+      "sound": ""
+    },
+    {
+      "id": "event-008",
+      "enabled": true,
+      "phase": "Every few days",
+      "title": "NEW GAME INVENTOR",
+      "context": "A brand new game, with brand new rules, every few days.",
+      "caption": "Chirag inventing a new game every few days.",
+      "media": {
+        "url": "/memes/e8-scientist.gif",
+        "source": "https://giphy.com/gifs/diversifyscience-excited-scientist-2jPbJlhv7fmGJFJ7dZ",
+        "query": "scientist eureka discovery meme"
+      },
+      "sound": ""
+    },
+    {
+      "id": "event-009",
+      "enabled": true,
+      "phase": "Classified",
+      "title": "TRISHA / RASHMIKA",
+      "context": "You know what happens when these names come up.",
+      "caption": "Us when we mention Trisha / Rashmika.",
+      "media": {
+        "url": "/memes/e9-samjhe.mp4",
+        "source": "https://tenor.com/view/tu-samjha-nhi-tu-nhi-smajha-akshay-kumar-akshay-kumar-in-car-gif-23496568",
+        "query": "akshay kumar toh samjhe phir hera pheri"
+      },
+      "sound": ""
+    }
+  ]
+}

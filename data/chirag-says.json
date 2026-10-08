@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "id": "say-001",
+      "enabled": true,
+      "question": "SAMPLE (fictional): Someone joins the class 15 minutes late.",
+      "options": [
+        "\"Good morning.\"",
+        "\"Welcome.\"",
+        "\"Interesting timing.\"",
+        "\"Please explain why you're late.\""
+      ],
+      "correctOption": 2,
+      "successMessage": "Exactly.",
+      "award": "",
+      "image": ""
+    },
+    {
+      "id": "say-002",
+      "enabled": true,
+      "question": "SAMPLE (fictional): The whole class says they understood the topic, but nobody can answer the follow-up.",
+      "options": [
+        "\"Great, let's move on.\"",
+        "\"Wonderful. Then let's try it once more, slowly.\"",
+        "\"Nobody understood. Good, that's honest.\"",
+        "\"Homework: teach it to a rubber duck.\""
+      ],
+      "correctOption": 1,
+      "successMessage": "Chirag approved. Patience level: infinite.",
+      "award": "THE PATIENCE PROFESSOR",
+      "image": ""
+    },
+    {
+      "id": "say-003",
+      "enabled": true,
+      "question": "SAMPLE (fictional): Someone says \"it works on my machine\".",
+      "options": [
+        "\"Then ship your machine.\"",
+        "\"Nice.\"",
+        "\"Show me the logs.\"",
+        "\"Restart it.\""
+      ],
+      "correctOption": 0,
+      "successMessage": "Classic.",
+      "award": "",
+      "image": ""
+    }
+  ]
+}
