@@ -145,3 +145,21 @@ export function sanitize<K extends ContentKind>(kind: K, body: unknown): Content
   const map = { trainees, "chirag-says": chiragSays, timeline, "thank-you": thankYou };
   return map[kind](body) as ContentMap[K];
 }
+
+export const LIST_KEY = {
+  trainees: "questions",
+  "chirag-says": "questions",
+  timeline: "events",
+  "thank-you": "messages",
+} as const;
+
+/** Validate a single item by running it through the same list validator. */
+export function sanitizeItem<K extends ContentKind>(kind: K, item: unknown): { id: string; enabled: boolean } {
+  const wrapped = { [LIST_KEY[kind]]: [item] };
+  const clean = sanitize(kind, wrapped) as unknown as Record<string, { id: string; enabled: boolean }[]>;
+  return clean[LIST_KEY[kind]][0];
+}
+
+export function sanitizeLines(lines: unknown): string[] {
+  return arr(lines, 20, "lines").map((l) => str(l, 200, "Line")).filter(Boolean);
+}
